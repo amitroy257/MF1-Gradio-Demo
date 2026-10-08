@@ -11,6 +11,15 @@ Tabs:
 
 It runs on new GPUs in bf16 and on older GPUs like the free T4 on Kaggle or Colab in fp16 (weights stay in fp32).
 
+## Screenshots
+Running on a free Kaggle T4 GPU.
+
+![MF-1 demo screenshot 1](85d3b044-f6ec-4808-8503-688078d8251e.png)
+
+![MF-1 demo screenshot 2](35684ae0-1754-41a3-a79f-5630aaf4f5ce.png)
+
+![MF-1 demo screenshot 3](dfdcc467-b2c4-4c86-8f5a-f991fb61d62c.png)
+
 ## Run on Kaggle (free)
 Open `MF1_gradio_kaggle.ipynb` on Kaggle, turn on GPU T4 x2 and Internet, then Run All in the editor.
 
